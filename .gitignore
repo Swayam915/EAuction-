@@ -1,0 +1,11 @@
+.venv/
+
+target/
+
+.vscode/
+
+.DS_Store
+
+node_modules/
+
+*.class
